@@ -29,20 +29,17 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Ayush-pandey-u/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
 
    
 
-## `Scan QR Code For Session`
-
-[![Maria-Bot](https://graph.org/file/296f51a3087f00a98d7a4.jpg)]([https://iwhahwhajajahqjahahauab-b3f2154865c8.herokuapp.com/](https://sleepy-cove-50902-bb33cab6890b.herokuapp.com/))
 
    
 
 ## ` BUILDPACKS`
 
 ```
-https://sleepy-cove-50902-bb33cab6890b.herokuapp.com/
+
 
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
@@ -50,7 +47,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Maria-Md/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-Md/)
 
 # Install Manually 👇
 
@@ -92,11 +89,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/Ayush-pandey-u/Maria-Md
+git clone https://github.com/AYUSH-PANDEY023/Maria-Md
 
 cd Maria-Md
-
-rm -rf auth_info_baileys
 
 node index.js
 
@@ -109,7 +104,3 @@ node index.js
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 
 ```
-
-# `base`
-
-- [`Miku-Md`]
