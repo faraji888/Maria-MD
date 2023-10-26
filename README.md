@@ -33,7 +33,7 @@
 
 
 ## ` Pair with WhatsApp`
-<h2 align="center">  <a href="https://replit.com/@theofficialbhar/AYUSH-PAIRING"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@theofficialbhar/AYUSH-PAIRING"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
