@@ -31,27 +31,35 @@
 
 - FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
 
-   
+
+## ` Pair with WhatsApp`
+<h2 align="center">  <a href="https://replit.com/@theofficialbhar/AYUSH-PAIRING"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
+
+## 
+- After you getting the `creds.json. ` then upload the `creds.json` in the `./Gallery/session` folder. then you can deploy on your favourite platform.
 
 
    
 
-## ` BUILDPACKS`
-
-```
 
 
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-Md/)
+<a href="https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-Md">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
 
 <br>
 <br>
 <a href="https://railway.app/new"><img src="https://railway.app/button.svg" />
+<br>
+<br>
+  <a href="https://github.com/codespaces/new"><img title="A17 on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+  <br>
+<br>
+  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
+</a>
 
 # Install Manually 👇
 
@@ -66,6 +74,17 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 * Any text editor
+
+## ` BUILDPACKS`
+
+```
+
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+```
 
 ## `For Termux/Ssh/Ubuntu`
 
