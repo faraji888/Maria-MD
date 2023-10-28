@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "9804160882"
-global.ownername = "BlackHeart 🖤"
+global.ownernomer = "919931122319"
+global.ownername = "Ayush pandey"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.ownernumber = '17188785916'  //creator number
+global.ownernumber = '919931122319'  //creator number
 global.ownername = 'Ayush' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
@@ -21,10 +21,10 @@ global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
 
 //theme link
-global.link = ''
+global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
