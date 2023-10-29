@@ -1,7 +1,7 @@
 {
-    "name": "XBug-Bot",
-    "version": "3.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "name": "Maria-Bot",
+    "version": "1.0.0",
+    "description": "WhatsApp Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Ayush",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
@@ -29,6 +29,8 @@
         "fluent-ffmpeg": "^2.1.2",
         "form-data": "^4.0.0",
         "fs-extra": "^11.1.1",
+        "google-it": "^1.6.2",
+        "google-tts-api": "^2.0.2",
         "human-readable": "^0.2.1",
         "jimp": "^0.16.13",
         "jsdom": "^22.1.0",
