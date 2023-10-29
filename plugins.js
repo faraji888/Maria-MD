@@ -35,7 +35,7 @@ const question = (text) => new Promise((resolve) => rl.question(text, resolve))
 async function startMaria() {
 //------------------------------------------------------
 let { version, isLatest } = await fetchLatestBaileysVersion()
-const {  state, saveCreds } =await useMultiFileAuthState(`./Gallery/session`)
+const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     const msgRetryCounterCache = new NodeCache() // for retry message, "waiting message"
     const Maria = makeWASocket({
         logger: pino({ level: 'silent' }),
