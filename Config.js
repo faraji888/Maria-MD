@@ -22,7 +22,7 @@ global.wm = "Ayush botz inc."
 
 //theme link
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
-
+global.support = 'https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8'
 //custom prefix
 global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 
