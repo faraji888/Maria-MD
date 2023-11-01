@@ -1598,15 +1598,7 @@ let buttonMessage = {
                 
                 break
                 
-case '':
-      const needhelpmenu = `Desire some aid, dear user? Type ${prefix}help for a menu of magical commands! 🔮`;
 
-        let buttonmnMessage = {
-            text: needhelpmenu,
-            headerType: 4
-        };
-        Maria.sendMessage(m.chat, buttonmnMessage, { quoted: m });
-    break;
               
                 
 case 'runtime': {
