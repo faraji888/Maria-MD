@@ -2,7 +2,7 @@
     "name": "Maria-MD",
     "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
     "repository": "https://github.com/AYUSH-PANDEY023/Maria-Md",
-    "logo": "https://wallpapercave.com/wp/wp6471201.jpg",
+    "logo": "https://telegra.ph/file/351133422917a8bd7d776.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
