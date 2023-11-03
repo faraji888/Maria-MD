@@ -116,7 +116,11 @@ git clone https://github.com/AYUSH-PANDEY023/Maria-Md
 
 cd Maria-Md
 
-node index.js
+rm -rf session
+
+npm i
+
+npm start
 
 ```
 
